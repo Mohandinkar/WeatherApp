@@ -8,7 +8,7 @@ export default function SearchBox({updateInfo}){
     let [city,setCity] = useState("");
     let [error, setError] = useState(false);
     const API_URL = "https://api.openweathermap.org/data/2.5/weather";
-    const API_KEY = "cd287582f3d77c92ffec054eb916b1c4";
+    const API_KEY = "use_your_own_API_KEY";
 
     let getWeatherInfo = async()=>{
         try{
