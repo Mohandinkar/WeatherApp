@@ -20,3 +20,5 @@ User-friendly and responsive design.
 
 # Tech Stack
 React, Free Weather API
+
+⚠️ Note: Replace your_api_key with your own actual API key.
