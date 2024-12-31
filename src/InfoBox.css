@@ -1,0 +1,16 @@
+.InfoBox{
+    text-align: center;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.weatherIcon{
+    margin-left: 8px;
+}
+
+p{
+    color:rgb(59, 48, 48);
+}
